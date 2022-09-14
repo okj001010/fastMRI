@@ -1,2 +1,4 @@
 # fastMRI
-2022 SNU FastMRI Challenge 7위
+
+### [2022년도 SNU FastMRI Challenge]
+
