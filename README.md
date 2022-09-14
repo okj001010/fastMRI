@@ -12,7 +12,7 @@ VarNet + CrossDomainNet(7) + CrossDomainNet(8) + MultiDomainNet 4개 모델 Ense
 
 2022 SNU FastMRI Challenge 최종 7위 (비공식)
 
-참고 논문
+#### 참고 논문
 
 * [2020 facebook FastMRI result](https://arxiv.org/pdf/2012.06318.pdf)
 
